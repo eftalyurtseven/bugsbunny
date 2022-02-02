@@ -1,4 +1,4 @@
-# BuggsMono
+# BugsMono
 
 This project was developed with passion. It has 3 project.
 
