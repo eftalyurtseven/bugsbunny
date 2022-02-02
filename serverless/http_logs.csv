@@ -1,0 +1,11 @@
+Method,Endpoint,StatusCode,MetricName,MetricValue(ms)
+POST,/api/v1/user,200,latency,4600
+POST,/api/v1/product,200,latency,2300
+GET,/api/v1/user/204857129485,200,latency,2012
+GET,/api/v1/user/2048571293485,200,latency,2056
+POST,/api/v1/shopping_cart,200,latency,4600
+POST,/api/v1/scheduler,200,latency,6884
+GET,/api/v1/notifications,200,latency,1253
+POST,/api/v1/read/notification/2048571293485,200,latency,1234
+
+

@@ -1,0 +1,11 @@
+variable "REGION" {}
+variable "BUCKET_NAME" {}
+variable "LAMBDA_DESC" {}
+variable "LAMBDA_FUNC_NAME" {}
+variable "ACCESS_KEY_ID" {}
+variable "ACCESS_KEY_SECRET" {}
+variable "ECR_FACTORIAL_REPO_NAME" {}
+variable "ECR_LAMBDA_REPO_NAME" {}
+variable "DATABASE_USER" {}
+variable "DATABASE_PASSWORD" {}
+variable "DATABASE_NAME" {}

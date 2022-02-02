@@ -1,0 +1,9 @@
+REGION                  = "eu-west-3"
+LAMBDA_DESC             = "serverless csv processors, read a csv and import to the database"
+BUCKET_NAME             = "where-is-the-bug"
+LAMBDA_FUNC_NAME        = "lambda-csv-importer"
+ECR_LAMBDA_REPO_NAME    = "csv-processor"
+ECR_FACTORIAL_REPO_NAME = "factorial-calc"
+DATABASE_USER           = "buggsbunny"
+DATABASE_PASSWORD       = "d-uM$JvBHS&2*275" # TODO: move to kms
+DATABASE_NAME           = "csv_bugs_bunny"
